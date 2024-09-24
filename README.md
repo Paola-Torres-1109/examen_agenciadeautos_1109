@@ -2,14 +2,15 @@
 
 
 ## Código
-![image](https://github.com/user-attachments/assets/6b5e4d05-c6ab-4ab1-bf59-ae52bf1f1828)
-![image](https://github.com/user-attachments/assets/94a48bf7-a5d1-4e43-a504-6c954c390efc)
-![image](https://github.com/user-attachments/assets/9700c56f-bf2b-4f67-82df-489abe6f48e2)
+![image](https://github.com/user-attachments/assets/c34885f8-972f-41ca-b340-13ac5f15444a)
+![image](https://github.com/user-attachments/assets/537eb35d-d8ec-4d87-bcbb-017911b4ec31)
+![image](https://github.com/user-attachments/assets/45504de5-140d-4fd8-ad74-735f4ea3964e)
+
 
 
 
 ## Resultado
-![image](https://github.com/user-attachments/assets/b947c365-0d5b-49ab-b767-ce408bcee1ef)
-![image](https://github.com/user-attachments/assets/242a3249-a25c-43fe-bc0c-1de3e86e577d)
+![image](https://github.com/user-attachments/assets/165610e8-6b08-4f77-81ef-8bf4bda37a2e)
+![image](https://github.com/user-attachments/assets/5ab480ce-c6e4-47a7-80c5-a08f1b8a8ff5)
 
 
